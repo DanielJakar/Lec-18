@@ -13,8 +13,8 @@ public class Main {
         ArrayList<Person> people = new ArrayList<>();
         people.add(Person.moshe());
         people.add(Person.david());
-        people.add(Person.moshe());
-        people.add(Person.david());
+        people.add(Person.moshe2());
+        people.add(Person.david2());
 
         Collections.sort(people);
 
